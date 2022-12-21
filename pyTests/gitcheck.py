@@ -1,2 +1,2 @@
 print("Git Successful...")
-print("Git New Commits....")
+print("Git New Commit....")
